@@ -1,0 +1,107 @@
+Cmp-Mod V01 Created by PcbNew   date = Mon 04 Sep 2017 06:30:41 PM CEST
+
+BeginCmp
+TimeStamp = 59AD58A4
+Path = /59AD525D
+Reference = L1;
+ValeurCmp = 10u;
+IdModule  = Inductors:Inductor_Taiyo-Yuden_NR-40xx;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD5874
+Path = /59AD4E76
+Reference = C1;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD587A
+Path = /59AD4E12
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD5880
+Path = /59AD4DD7
+Reference = C3;
+ValeurCmp = 33n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD5886
+Path = /59AD4CA1
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD588C
+Path = /59AD4D96
+Reference = C5;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD5892
+Path = /59AD59E5
+Reference = D1;
+ValeurCmp = D_Schottky_ALT;
+IdModule  = Diodes_SMD:D_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD5898
+Path = /59AD5108
+Reference = J1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD589E
+Path = /59AD5099
+Reference = J2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD58AA
+Path = /59AD6517
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD58B0
+Path = /59AD4BD9
+Reference = R2;
+ValeurCmp = 12k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD58B6
+Path = /59AD4C44
+Reference = R3;
+ValeurCmp = 36k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59AD58C0
+Path = /59AD4A3B
+Reference = U1;
+ValeurCmp = MAX1896;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
+EndCmp
+
+EndListe
